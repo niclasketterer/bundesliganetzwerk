@@ -1,0 +1,52 @@
+ID,Name,Typ,Verein,Jugendverein,Land,Am,MW,Einsatz
+boc1,Manuel Riemann,1,boc,burg,,,A,1
+boc2,Cristian Gamboa,1,boc,mli,,,A,1
+boc3,Danilo Soares,1,boc,lust,,,A,1
+boc4,Erhan Masovic,1,boc,cuk,,,B,1
+boc5,Jacek Goralski,1,boc,zaw,,,B,1
+boc6,Patrick Osterhage,1,boc,bvbj,,,A,1
+boc7,Kevin Stoeger,1,boc,vfbj,,,C,1
+boc8,Anthony Losilla,1,boc,asse,,,A,1
+boc9,Simon Zoller,1,boc,ksc,,,B,1
+boc10,Philipp Foerster,1,boc,vfbj,,,B,1
+boc11,Takuma Asano,1,boc,yok,,,B,1
+boc16,Konstantinos Stafylidis,1,boc,paok,,,B,1
+boc17,Gerrit Holtmann,1,boc,svwj,,,B,1
+boc18,Jordi Osei Tutu,1,boc,ars,,,A,1
+boc20,Ivan Ordets,1,boc,shak,,,B,1
+boc21,Michael Esser,1,boc,habi,,,A,1
+boc22,Christopher Antwi Adjei,1,boc,hern,,,A,1
+boc23,Saidy Janko,1,boc,manu,,,B,1
+boc24,Vasilios Lampropoulos,1,boc,olpi,,,A,1
+boc28,Pierre Kunde,1,boc,atm,,,D,1
+boc29,Moritz Broschinski,1,boc,cott,,,A,1
+boc30,Dominique Heintz,1,boc,fck,,,D,1
+boc31,Keven Schlotterbeck,1,boc,kirc,,,D,1
+boc33,Philipp Hofmann,1,boc,gelj,,,B,1
+boc35,Silvere Ganvoula,1,boc,anne,,,B,1
+burg,Wacker Burghausen,2,NA,NA,,,NA,NA
+mli,AD Municipal Liberia,2,NA,NA,,,NA,NA
+lust,Austria Lustenau,2,NA,NA,,,NA,NA
+cuk,FK Cukaricki,2,NA,NA,,,NA,NA
+zaw,Zawisza Bydgoszcz,2,NA,NA,,,NA,NA
+bvbj,Borussia Dortmund Jugend,2,NA,NA,,,NA,NA
+vfbj,VfB Stuttgart Jugend,2,NA,NA,,,NA,NA
+asse,AS St Etienne,2,NA,NA,,,NA,NA
+ksc,Karlsruher SC,2,NA,NA,,,NA,NA
+yok,Yokkaichi Highschool,2,NA,NA,,,NA,NA
+paok,PAOK Saloniki,2,NA,NA,,,NA,NA
+svwj,Werder Bremen Jugend,2,NA,NA,,,NA,NA
+ars,FC Arsenal,2,NA,NA,,,NA,NA
+shak,Shakhtar Donezk,2,NA,NA,,,NA,NA
+habi,VfB Habinghorst,2,NA,NA,,,NA,NA
+hern,Westfalia Herne,2,NA,NA,,,NA,NA
+manu,Manchester United,2,NA,NA,,,NA,NA
+olpi,Olympiakos Piraus,2,NA,NA,,,NA,NA
+atm,Atletico Madrid,2,NA,NA,,,NA,NA
+cott,Energie Cottbus,2,NA,NA,,,NA,NA
+fck,1 FC Kaiserslautern,2,NA,NA,,,NA,NA
+kirc,VfL Kirchheim,2,NA,NA,,,NA,NA
+gelj,FC Schalke 04 Jugend,2,NA,NA,,,NA,NA
+anne,Patroge Saint Anne,2,NA,NA,,,NA,NA
+boc,VfL Bochum,2,NA,NA,,,NA,NA
+bl,Bundesliga,3,NA,NA,,,NA,NA
