@@ -1,0 +1,57 @@
+ID,Name,Typ,Verein,Jugendverein,Land,Am,MW
+fca1,Rafal Gikiewicz,1,fca,ols,,,A
+fca2,Robert Gumny,1,fca,lech,,,B
+fca3,Mads Pedersen,1,fca,fcno,,,B
+fca4,Reece Oxford,1,fca,whu,,,E
+fca5,Tobias Strobl,1,fca,mu60,,,D
+fca6,Jeffrey Gouweleeuw,1,fca,hee,,,E
+fca7,Dion Beljo,1,fca,cib,,,C
+fca8,Renato Veiga,1,fca,spo,,,A
+fca9,Ermedin Demirovic,1,fca,rblj,,,E
+fca10,Arne Maier,1,fca,bscj,,,G
+fca11,Mergim Berisha,1,fca,rbs,,,D
+fca13,Elvis Rexhbecaj,1,fca,wobj,,,D
+fca14,Julian Baumgartlinger,1,fca,mu60,,,C
+fca16,Ruben Vargas,1,fca,luz,,,E
+fca17,Noah Sarenren Bazee,1,fca,han,,,A
+fca19,Felix Udokhai,1,fca,mu60,,,F
+fca20,Daniel Caligiuri,1,fca,scfj,,,C
+fca22,Iago,1,fca,inte,,,C
+fca23,Maximilian Bauer,1,fca,fur,,,B
+fca24,Fredrik Jensen,1,fca,twen,,,B
+fca27,Arne Engels,1,fca,brue,,,A
+fca28,Andre Hahn,1,fca,hsv,,,D
+fca30,Niklas Dorsch,1,fca,fcbj,,,D
+fca38,David Colina,1,fca,asm,,,A
+fca39,Benjamin Leneis,1,fca,fcaj,,,A
+fca40,Tomas Koubek,1,fca,kral,,,C
+fca42,Aaron Zehnter,1,fca,fcaj,,,A
+fca45,Kelvin Yeboah,1,fca,goz,,,C
+fca48,Irvin Cardona,1,fca,asm,,,D
+ols,Tempo 25 Olsztyn,2,NA,NA,,,NA
+lech,Lech Posen,2,NA,NA,,,NA
+fcno,FC Nordsjaelland,2,NA,NA,,,NA
+whu,West Ham United,2,NA,NA,,,NA
+hee,SC Heerenveen,2,NA,NA,,,NA
+cib,Cibalia,2,NA,NA,,,NA
+spo,Sporting Lissabon,2,NA,NA,,,NA
+rblj,RB Leipzig Jugend,2,NA,NA,,,NA
+bscj,Hertha BSC Jugend,2,NA,NA,,,NA
+rbs,RB Salzburg,2,NA,NA,,,NA
+wobj,VfL Wolfsburg Jugend,2,NA,NA,,,NA
+luz,FC Luzern,2,NA,NA,,,NA
+han,Hannover 96,2,NA,NA,,,NA
+mu60,1860 München,2,NA,NA,,,NA
+scfj,SC Freiburg Jugend,2,NA,NA,,,NA
+inte,Internacional Porto Alegre,2,NA,NA,,,NA
+fur,Greuther Fuerth,2,NA,NA,,,NA
+twen,Twente Enschede,2,NA,NA,,,NA
+brue,FC Bruegge,2,NA,NA,,,NA
+hsv,Hamburger SV,2,NA,NA,,,NA
+fcbj,FC Bayern Jugend,2,NA,NA,,,NA
+kral,Hradec Kralove,2,NA,NA,,,NA
+fcaj,FC Augsburg Jugend,2,NA,NA,,,NA
+goz,Gozzano,2,NA,NA,,,NA
+asm,AS Monaco,2,NA,NA,,,NA
+fca,FC Augsburg,2,NA,NA,,,NA
+bl,Bundesliga,3,NA,NA,,,NA
