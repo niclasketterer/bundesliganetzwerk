@@ -1,0 +1,43 @@
+ID,Name,Typ,Verein,Jugendverein,Land,MW
+svw1,Jiri Pavlenka,1,svw,ostr,NA,E
+svw3,Anthony Jung,1,svw,sgej,NA,A
+svw4,Niklas Stark,1,svw,fcn,NA,F
+svw5,Amos Pieper,1,svw,bvbj,NA,C
+svw6,Jens Stage,1,svw,brab,NA,B
+svw7,Marvin Ducksch,1,svw,bvbj,NA,B
+svw8,Mitchell Weiser,1,svw,koej,NA,E
+svw10,Leonardo Bittencourt,1,svw,cott,NA,C
+svw11,Niclas Fuellkrug,1,svw,svwj,NA,E
+svw13,Milos Veljkovic,1,svw,tot,NA,E
+svw17,Maximilian Philipp,1,svw,scf,NA,F
+svw19,Dikeni Salifou,1,svw,fcaj,NA,A
+svw20,Romano Schmid,1,svw,graz,NA,B
+svw21,Eren Dinkci,1,svw,svwj,NA,A
+svw22,Niklas Schmidt,1,svw,svwj,NA,A
+svw26,Lee Buchanan,1,svw,der,NA,B
+svw27,Felix Agu,1,svw,osna,NA,A
+svw28,Ilia Gruev,1,svw,svwj,NA,B
+svw30,Michael Zetterer,1,svw,uha,NA,A
+svw32,Marco Friedl,1,svw,fcbj,NA,C
+svw34,Jean Manuel Mbom,1,svw,svwj,NA,B
+svw36,Christian Gross,1,svw,hsv,NA,A
+svw39,Fabio Chiarodia,1,svw,svwj,NA,A
+ostr,Banik Ostrau,2,NA,NA,CZE,NA
+sgej,Eintracht Frankfurt Jugend,2,NA,NA,GER,NA
+fcn,1 FC Nuernberg,2,NA,NA,GER,NA
+bvbj,Borussia Dortmund Jugend,2,NA,NA,GER,NA
+brab,Brabrand IF,2,NA,NA,DEN,NA
+koej,FC Koeln Jugend,2,NA,NA,GER,NA
+cott,Energie Cottbus,2,NA,NA,GER,NA
+svwj,Werder Bremen Jugend,2,NA,NA,GER,NA
+tot,Tottenham Hotspur,2,NA,NA,ENG,NA
+scfj,SC Freiburg Jugend,2,NA,NA,GER,NA
+fcaj,FC Augsburg Jugend,2,NA,NA,GER,NA
+graz,Sturm Graz,2,NA,NA,AUT,NA
+der,Derby County,2,NA,NA,ENG,NA
+osna,VfL Osnabrueck,2,NA,NA,GER,NA
+uha,SpVgg Unterhaching,2,NA,NA,GER,NA
+fcbj,FC Bayern Jugend,2,NA,NA,GER,NA
+hsv,Hamburger SV,2,NA,NA,GER,NA
+svw,Werder Bremen,2,NA,NA,GER,NA
+bl,Bundesliga,3,NA,NA,NA,NA
