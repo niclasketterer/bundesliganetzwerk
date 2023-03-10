@@ -1,0 +1,54 @@
+ID,Name,Typ,Verein,Jugendverein,Land,MW
+vfb1,Florian Mueller,1,vfb,fsvj,NA,D
+vfb2,Waldemar Anton,1,vfb,han,NA,E
+vfb3,Wataru Endo,1,vfb,shb,NA,D
+vfb4,Josha Vagnoman,1,vfb,hsv,NA,B
+vfb5,Konstantinos Mavropanos,1,vfb,smy,NA,F
+vfb7,Tanguy Coulibaly,1,vfb,psg,NA,C
+vfb8,Enzo Millot,1,vfb,asm,NA,A
+vfb9,Serhou Guirassy,1,vfb,stl,NA,E
+vfb10,Tiago Tomas,1,vfb,spo,NA,C
+vfb11,Juan Jose Perea,1,vfb,prt,NA,A
+vfb14,Silas Katompa Mvumpa,1,vfb,pfc,NA,G
+vfb15,Pascal Stenzel,1,vfb,bvbj,NA,C
+vfb16,Atakan Karazor,1,vfb,bocj,NA,B
+vfb17,Genki Haraguchi,1,vfb,ura,NA,B
+vfb20,Luca Pfeiffer,1,vfb,stk,NA,B
+vfb21,Hiroki Ito,1,vfb,iwa,NA,C
+vfb22,Chris Fuehrich,1,vfb,rwo,NA,B
+vfb23,Dan Axel Zagadou,1,vfb,psg,NA,I
+vfb24,Borna Sosa,1,vfb,zag,NA,G
+vfb25,Lilian Egloff,1,vfb,vfbj,NA,A
+vfb27,Alou Kuol,1,vfb,cco,NA,A
+vfb28,Nikolas Nartey,1,vfb,kop,NA,A
+vfb31,Gil Dias,1,vfb,asm,NA,B
+vfb33,Fabian Bredlow,1,vfb,rblj,NA,A
+vfb34,Omer Beyaz,1,vfb,fen,NA,A
+vfb36,Laurin Ulrich,1,vfb,vfbj,NA,A
+vfb37,Antonis Aidonis,1,vfb,vfbj,NA,A
+vfb39,Thomas Kastanaras,1,vfb,vfbj,NA,A
+fsvj,FSV Mainz 05 Jugend,2,NA,NA,GER,NA
+han,Hannover 96,2,NA,NA,GER,NA
+shb,Shonan Bellmare,2,NA,NA,JAP,NA
+hsv,Hamburger SV,2,NA,NA,GER,NA
+smy,Apollon Smyrnis,2,NA,NA,GRE,NA
+psg,Paris St Germain,2,NA,NA,FRA,NA
+asm,AS Monaco,2,NA,NA,FRA,NA
+stl,Stade Laval,2,NA,NA,FRA,NA
+spo,Sporting Lissabon,2,NA,NA,POR,NA
+prt,FC Porto,2,NA,NA,POR,NA
+pfc,Paris FC,2,NA,NA,FRA,NA
+bvbj,Borussia Dortmund Jugend,2,NA,NA,GER,NA
+bocj,VfL Bochum Jugend,2,NA,NA,GER,NA
+ura,Urawa Reds,2,NA,NA,JAP,NA
+stk,SV Stuttgarter Kickers,2,NA,NA,GER,NA
+iwa,Jubilo Iwata,2,NA,NA,JAP,NA
+rwo,Rot Weiß Oberhausen,2,NA,NA,GER,NA
+zag,Dinamo Zagreb,2,NA,NA,CRO,NA
+vfbj,VfB Stuttgart Jugend,2,NA,NA,GER,NA
+cco,Central Coast,2,NA,NA,AUS,NA
+kop,FC Kopenhagen,2,NA,NA,DEN,NA
+rblj,Red Bull Leipzig Jugend,2,NA,NA,GER,NA
+fen,Fenerbahce Istanbul,2,NA,NA,TUR,NA
+vfb,VfB Stuttgart,2,NA,NA,GER,NA
+bl,Bundesliga,3,NA,NA,NA,NA
