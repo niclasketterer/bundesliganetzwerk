@@ -1,0 +1,46 @@
+ID,Name,Typ,Verein,Jugendverein,Land,MW
+bmg1,Jonas Omlin,1,bmg,luz,NA,D
+bmg3,Ko Itakura,1,bmg,kaw,NA,E
+bmg4,Mamadou Doucoure,1,bmg,psg,NA,A
+bmg5,Marvin Friedrich,1,bmg,gelj,NA,D
+bmg6,Christoph Kramer,1,bmg,levj,NA,E
+bmg7,Patrick Herrmann,1,bmg,bmgj,NA,E
+bmg8,Julian Weigl,1,bmg,mu60,NA,H
+bmg10,Marcus Thuram,1,bmg,soc,NA,I
+bmg11,Hannes Wolf,1,bmg,rbs,NA,E
+bmg13,Lars Stindl,1,bmg,ksc,NA,F
+bmg14,Alassane Plea,1,bmg,ol,NA,I
+bmg17,Manu Kone,1,bmg,tou,NA,G
+bmg18,Stefan Lainer,1,bmg,rbs,NA,F
+bmg19,Nathan Ngoumou,1,bmg,tou,NA,C
+bmg20,Luca Netz,1,bmg,bscj,NA,C
+bmg21,Tobias Sippel,1,bmg,fck,NA,B
+bmg23,Jonas Hofmann,1,bmg,tsgj,NA,F
+bmg24,Tony Jantschke,1,bmg,bmgj,NA,D
+bmg25,Ramy Bensebaini,1,bmg,pac,NA,G
+bmg29,Joe Scally,1,bmg,nyfc,NA,E
+bmg30,Nico Elvedi,1,bmg,fcz,NA,I
+bmg32,Florian Neuhaus,1,bmg,mu60,NA,I
+bmg34,Conor Noss,1,bmg,bmgj,NA,A
+bmg38,Yvandro Borges Sanches,1,bmg,bmgj,NA,A
+bmg41,Jan Olschowsky,1,bmg,bmgj,NA,A
+luz,FC Luzern,2,NA,NA,SUI,NA
+kaw,Kawasaki Frontale,2,NA,NA,JAP,NA
+psg,Paris Saint-Germain,2,NA,NA,FRA,NA
+gelj,FC Schalke 04 Jugend,2,NA,NA,GER,NA
+levj,Bayer 04 Leverkusen Jugend,2,NA,NA,GER,NA
+bmgj,Moenchengladbach Jugend,2,NA,NA,GER,NA
+mu60,1860 Muenchen,2,NA,NA,GER,NA
+soc,FC Sochaux,2,NA,NA,FRA,NA
+rbs,Red Bull Salzburg,2,NA,NA,AUT,NA
+ksc,Karlsruher SC,2,NA,NA,GER,NA
+ol,Olympique Lyon,2,NA,NA,FRA,NA
+tou,FC Toulouse,2,NA,NA,FRA,NA
+bscj,Hertha BSC Berlin Jugend,2,NA,NA,GER,NA
+fck,1. FC Kaiserslautern,2,NA,NA,GER,NA
+tsgj,TSG 1899 Hoffenheim Jugend,2,NA,NA,GER,NA
+pac,Paradou AC,2,NA,NA,ALG,NA
+nyfc,New York City FC,2,NA,NA,USA,NA
+fcz,FC Zuerich,2,NA,NA,SUI,NA
+bl,Bundesliga,3,NA,NA,NA,NA
+bmg,Borussia Moenchengladbach,2,NA,NA,GER,NA
