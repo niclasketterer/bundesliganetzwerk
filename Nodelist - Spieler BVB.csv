@@ -1,0 +1,55 @@
+ID,Name,Typ,Verein,Jugendverein,Land,MW
+bvb1,Gregor Kobel,1,bvb,gcz,NA,G
+bvb2,Mateu Morey,1,bvb,bar,NA,C
+bvb4,Nico Schlotterbeck,1,bvb,scfj,NA,I
+bvb6,Salih Oezcan,1,bvb,koej,NA,F
+bvb7,Giovanni Reyna,1,bvb,nyfc,NA,J
+bvb8,Mahmoud Dahoud,1,bvb,bmgj,NA,F
+bvb9,Sebastien Haller,1,bvb,aux,NA,J
+bvb11,Marco Reus,1,bvb,rwa,NA,J
+bvb13,Raphael Guerreiro,1,bvb,caen,NA,I
+bvb14,Nico Schulz,1,bvb,bscj,NA,G
+bvb15,Mats Hummels,1,bvb,fcbj,NA,K
+bvb17,Marius Wolf,1,bvb,mu60,NA,D
+bvb18,Youssoufa Moukoko,1,bvb,bvbj,NA,H
+bvb19,Julian Brandt,1,bvb,wobj,NA,J
+bvb20,Anthony Modeste,1,bvb,niz,NA,F
+bvb21,Donyell Malen,1,bvb,ars,NA,H
+bvb22,Jude Bellingham,1,bvb,bir,NA,L
+bvb23,Emre Can,1,bvb,fcbj,NA,I
+bvb24,Thomas Meunier,1,bvb,rev,NA,I
+bvb25,Niklas Suele,1,bvb,tsgj,NA,K
+bvb26,Julian Ryerson,1,bvb,vik,NA,C
+bvb27,Karim Adeyemi,1,bvb,uha,NA,I
+bvb30,Felix Passlack,1,bvb,bvbj,NA,B
+bvb33,Alexander Meyer,1,bvb,hsv,NA,A
+bvb35,Marcel Lotka,1,bvb,levj,NA,A
+bvb36,Tom Rothe,1,bvb,bvbj,NA,B
+bvb43,Jamie Bynoe Gittens,1,bvb,bvbj,NA,D
+bvb47,Antonios Papadopoulos,1,bvb,vfra,NA,A
+gcz,Grasshoppers Zuerich,2,NA,NA,SUI,NA
+bar,FC Barcelona,2,NA,NA,ESP,NA
+scfj,SC Freiburg Jugend,2,NA,NA,GER,NA
+koej,FC Koeln Jugend,2,NA,NA,GER,NA
+nyfc,New York City FC,2,NA,NA,USA,NA
+bmgj,Borussia Moenchengladbach Jugend,2,NA,NA,GER,NA
+aux,AJ Auxerre,2,NA,NA,FRA,NA
+rwa,Rot Weiss Ahlen,2,NA,NA,GER,NA
+caen,SM Caen,2,NA,NA,FRA,NA
+bscj,Hertha BSC Jugend,2,NA,NA,GER,NA
+fcbj,FC Bayern Jugend,2,NA,NA,GER,NA
+mu60,1860 München,2,NA,NA,GER,NA
+bvbj,Borussia Dortmund Jugend,2,NA,NA,GER,NA
+wobj,VfL Wolfsburg Jugend,2,NA,NA,GER,NA
+niz,OGC Nizza,2,NA,NA,FRA,NA
+ars,FC Arsenal,2,NA,NA,ENG,NA
+bir,Birmingham City,2,NA,NA,ENG,NA
+rev,RE Virton,2,NA,NA,FRA,NA
+tsgj,TSG Hoffenheim Jugend,2,NA,NA,GER,NA
+vik,Viking FK,2,NA,NA,NOR,NA
+uha,SpVgg Unterhaching,2,NA,NA,GER,NA
+hsv,Hamburger SV,2,NA,NA,GER,NA
+levj,Bayer Leverkusen Jugend,2,NA,NA,GER,NA
+vfra,VfR Aalen,2,NA,NA,GER,NA
+bvb,Borussia Dortmund,2,NA,NA,GER,NA
+bl,Bundesliga,3,NA,NA,NA,NA
