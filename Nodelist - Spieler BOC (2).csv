@@ -1,0 +1,52 @@
+ID,Name,Typ,Verein,Jugendverein,Land,MW
+boc1,Manuel Riemann,1,boc,burg,NA,A
+boc2,Cristian Gamboa,1,boc,mli,NA,A
+boc3,Danilo Soares,1,boc,lust,NA,A
+boc4,Erhan Masovic,1,boc,cuk,NA,B
+boc5,Jacek Goralski,1,boc,zaw,NA,B
+boc6,Patrick Osterhage,1,boc,bvbj,NA,A
+boc7,Kevin Stoeger,1,boc,vfbj,NA,C
+boc8,Anthony Losilla,1,boc,asse,NA,A
+boc9,Simon Zoller,1,boc,ksc,NA,B
+boc10,Philipp Foerster,1,boc,vfbj,NA,B
+boc11,Takuma Asano,1,boc,yok,NA,B
+boc16,Konstantinos Stafylidis,1,boc,paok,NA,B
+boc17,Gerrit Holtmann,1,boc,svwj,NA,B
+boc18,Jordi Osei Tutu,1,boc,ars,NA,A
+boc20,Ivan Ordets,1,boc,shak,NA,B
+boc21,Michael Esser,1,boc,habi,NA,A
+boc22,Christopher Antwi Adjei,1,boc,hern,NA,A
+boc23,Saidy Janko,1,boc,manu,NA,B
+boc24,Vasilios Lampropoulos,1,boc,olpi,NA,A
+boc28,Pierre Kunde,1,boc,atm,NA,D
+boc29,Moritz Broschinski,1,boc,cott,NA,A
+boc30,Dominique Heintz,1,boc,fck,NA,D
+boc31,Keven Schlotterbeck,1,boc,kirc,NA,D
+boc33,Philipp Hofmann,1,boc,gelj,NA,B
+boc35,Silvere Ganvoula,1,boc,anne,NA,B
+burg,Wacker Burghausen,2,NA,NA,GER,NA
+mli,AD Municipal Liberia,2,NA,NA,CRI,NA
+lust,Austria Lustenau,2,NA,NA,AUT,NA
+cuk,FK Cukaricki,2,NA,NA,SRB,NA
+zaw,Zawisza Bydgoszcz,2,NA,NA,POL,NA
+bvbj,Borussia Dortmund Jugend,2,NA,NA,GER,NA
+vfbj,VfB Stuttgart Jugend,2,NA,NA,GER,NA
+asse,AS St Etienne,2,NA,NA,FRA,NA
+ksc,Karlsruher SC,2,NA,NA,GER,NA
+yok,Yokkaichi Highschool,2,NA,NA,JAP,NA
+paok,PAOK Saloniki,2,NA,NA,GRE,NA
+svwj,Werder Bremen Jugend,2,NA,NA,GER,NA
+ars,FC Arsenal,2,NA,NA,ENG,NA
+shak,Shakhtar Donezk,2,NA,NA,UKR,NA
+habi,VfB Habinghorst,2,NA,NA,GER,NA
+hern,Westfalia Herne,2,NA,NA,GER,NA
+manu,Manchester United,2,NA,NA,ENG,NA
+olpi,Olympiakos Piraus,2,NA,NA,GRE,NA
+atm,Atletico Madrid,2,NA,NA,ESP,NA
+cott,Energie Cottbus,2,NA,NA,GER,NA
+fck,1 FC Kaiserslautern,2,NA,NA,GER,NA
+kirc,VfL Kirchheim,2,NA,NA,GER,NA
+gelj,FC Schalke 04 Jugend,2,NA,NA,GER,NA
+anne,Patroge Saint Anne,2,NA,NA,COG,NA
+boc,VfL Bochum,2,NA,NA,GER,NA
+bl,Bundesliga,3,NA,NA,NA,NA
