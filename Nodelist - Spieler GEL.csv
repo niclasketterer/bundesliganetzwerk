@@ -1,0 +1,61 @@
+ID,Name,Typ,Verein,Jugendverein,Land,MW
+gel1,Ralf Faehrmann,1,gel,gelj,NA,E
+gel2,Thomas Ouwejan,1,gel,alk,NA,B
+gel3,Leo Greiml,1,gel,stpo,NA,B
+gel4,Maya Yoshida,1,gel,nag,NA,C
+gel5,Sepp van den Berg,1,gel,zwo,NA,C
+gel6,Tom Krauss,1,gel,rblj,NA,C
+gel8,Danny Latza,1,gel,gelj,NA,C
+gel9,Simon Terodde,1,gel,duis,NA,B
+gel10,Rodrigo Zalazar,1,gel,mala,NA,B
+gel11,Marius Buelter,1,gel,muns,NA,B
+gel13,Alexander Schwolow,1,gel,scfj,NA,D
+gel15,Timothee Kolodziejczak,1,gel,len,NA,C
+gel18,Jere Uronen,1,gel,tps,NA,B
+gel19,Ken Karaman,1,gel,tsgj,NA,B
+gel20,Tim Skarke,1,gel,heid,NA,A
+gel21,Niklas Tauer,1,gel,fsvj,NA,A
+gel23,Mehmet Aydin,1,gel,gelj,NA,B
+gel24,Dominick Drexler,1,gel,levj,NA,B
+gel25,Moritz Jenz,1,gel,ful,NA,B
+gel26,Michael Frey,1,gel,ybb,NA,C
+gel27,Cedric Brunner,1,gel,fcz,NA,B
+gel29,Tobias Mohr,1,gel,aaa,NA,A
+gel30,Alex Kral,1,gel,slpr,NA,D
+gel33,Eder Balanta,1,gel,rivp,NA,C
+gel34,Michael Langer,1,gel,vfbj,NA,A
+gel35,Marcin Kaminski,1,gel,lech,NA,B
+gel37,Andreas Ivan,1,gel,stk,NA,A
+gel38,Siochiro Kozuki,1,gel,sang,NA,A
+gel40,Sebastian Polter,1,gel,wobj,NA,A
+gel41,Henning Matriciani,1,gel,lipp,NA,A
+gelj,FC Schalke 04 Jugend,2,NA,NA,GER,NA
+alk,AZ Alkmaar,2,NA,NA,NED,NA
+stpo,FC St Polten,2,NA,NA,AUT,NA
+nag,Nagoya Crampus,2,NA,NA,JAP,NA
+zwo,PEC Zwolle,2,NA,NA,NED,NA
+rblj,RB Leipzig Jugend,2,NA,NA,GER,NA
+duis,MSV Duisburg,2,NA,NA,GER,NA
+mala,FC Malaga,2,NA,NA,ESP,NA
+muns,Preussen Muenster,2,NA,NA,GER,NA
+scfj,SC Freiburg Jugend,2,NA,NA,GER,NA
+len,RC Lens,2,NA,NA,FRA,NA
+tps,Turun Palloseura,2,NA,NA,FIN,NA
+tsgj,TSG Hoffenheim Jugend,2,NA,NA,GER,NA
+heid,1 FC Heidenheim,2,NA,NA,GER,NA
+fsvj,1 FSV Mainz 05 Jugend,2,NA,NA,GER,NA
+levj,Bayer Leverkusen Jugend,2,NA,NA,GER,NA
+ful,FC Fulham,2,NA,NA,ENG,NA
+ybb,Young Boys Bern,2,NA,NA,SUI,NA
+fcz,FC Zuerich,2,NA,NA,SUI,NA
+aaa,Alemannia Aachen,2,NA,NA,GER,NA
+slpr,Slavia Prag,2,NA,NA,CZE,NA
+rivp,River Plate,2,NA,NA,ARG,NA
+vfbj,VfB Stuttgart Jugend,2,NA,NA,GER,NA
+lech,Lech Posen,2,NA,NA,POL,NA
+stk,Stuttgarter Kickers,2,NA,NA,GER,NA
+sang,Kyoto Sanga,2,NA,NA,JAP,NA
+wobj,VfL Wolfsburg Jugend,2,NA,NA,GER,NA
+lipp,SV Lippstadt,2,NA,NA,GER,NA
+gel,FC Schalke 04,2,NA,NA,GER,NA
+bl,Bundesliga,3,NA,NA,NA,NA
