@@ -1,0 +1,43 @@
+ID,Name,Typ,Verein,Jugendverein,Land,MW
+fsv1,Finn Dahmen,1,fsv,fsvj,NA,A
+fsv3,Aaron Martin,1,fsv,espb,NA,F
+fsv4,Aymen Barkok,1,fsv,sgej,NA,B
+fsv5,Maxim Leitsch,1,fsv,bocj,NA,B
+fsv6,Anton Stach,1,fsv,osna,NA,E
+fsv7,Jae Sung Lee,1,fsv,kun,NA,B
+fsv8,Leandro Barreiro,1,fsv,fsvj,NA,E
+fsv9,Karim Onisiwo,1,fsv,twl,NA,B
+fsv11,Marcus Ingvartsen,1,fsv,fcno,NA,B
+fsv16,Stefan Bell,1,fsv,fsvj,NA,C
+fsv17,Ludovic Ajourque,1,fsv,asco,NA,F
+fsv19,Anthony Caci,1,fsv,stra,NA,C
+fsv20,Edmilson Fernandes,1,fsv,fcsi,NA,D
+fsv21,Danny da Costa,1,fsv,levj,NA,E
+fsv25,Andreas Hanche Olsen,1,fsv,stab,NA,B
+fsv27,Robin Zentner,1,fsv,fsvj,NA,B
+fsv29,Jonathan Burkardt,1,fsv,fsvj,NA,F
+fsv30,Silvan Widmer,1,fsv,aar,NA,D
+fsv31,Dominik Kohr,1,fsv,levj,NA,D
+fsv36,Marlon Mustapha,1,fsv,fsvj,NA,A
+fsv37,Delano Burgzorg,1,fsv,graa,NA,A
+fsv42,Alexander Hack,1,fsv,mu60,NA,B
+fsv43,Brajan Gruda,1,fsv,fsvj,NA,A
+fsv44,Nelson Weiper,1,fsv,fsvj,NA,A
+fsvj,FSV Mainz Jugend,2,NA,NA,GER,NA
+espb,Espanyol Barcelona,2,NA,NA,ESP,NA
+sgej,Eintracht Frankfurt Jugend,2,NA,NA,GER,NA
+bocj,VfL Bochum Jugend,2,NA,NA,GER,NA
+osna,VfL Osnabrueck,2,NA,NA,GER,NA
+kun,Korea University,2,NA,NA,KOR,NA
+twl,TWL Elektra,2,NA,NA,POL,NA
+fcno,FC Nordsjaelland,2,NA,NA,DEN,NA
+asco,SCO Angers,2,NA,NA,FRA,NA
+stra,Racing Strassburg,2,NA,NA,FRA,NA
+fcsi,FC Sion,2,NA,NA,SUI,NA
+levj,Bayer Leverkusen Jugend,2,NA,NA,GER,NA
+stab,Stabaek IF,2,NA,NA,DEN,NA
+aar,FC Aarau,2,NA,NA,SUI,NA
+graa,De Graafschap Doetinchem,2,NA,NA,NED,NA
+mu60,1860 München,2,NA,NA,GER,NA
+bl,Bundesliga,3,NA,NA,NA,NA
+fsv,FSV Mainz 05,2,NA,NA,GER,NA
