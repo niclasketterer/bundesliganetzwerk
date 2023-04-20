@@ -1,0 +1,714 @@
+id,name,type,club,youth,nation,peakvalue
+aaa,Alemannia Aachen,2,,,GER,
+aar,FC Aarau,2,,,SUI,
+aja,Ajax Amsterdam,2,,,NED,
+alk,AZ Alkmaar,2,,,NED,
+and,RSC Anderlecht,2,,,BEL,
+ange,Angelholm,2,,,SWE,
+anne,Patroge Saint Anne,2,,,COG,
+ars,FC Arsenal,2,,,ENG,
+asco,Angers SCO,2,,,FRA,
+asec,ASEC Mimosas,2,,,CIV,
+asm,AS Monaco,2,,,FRA,
+asse,AS St Etienne,2,,,FRA,
+atm,Atletico Madrid,2,,,ESP,
+atpr,Athletico Paranese,2,,,BRA,
+atro,Atromitos Athen,2,,,GRE,
+auer,SV Auersmacher,2,,,GER,
+aux,AJ Auxerre,2,,,FRA,
+awie,Austria Wien,2,,,AUT,
+bama,JMG Academy Bamako,2,,,MAL,
+bar,FC Barcelona,2,,,ESP,
+bas,FC Basel,2,,,SUI,
+beif,Benlose IF,2,,,DEN,
+ben,Benfica Lissabon,2,,,POR,
+bir,Birmingham City,2,,,ENG,
+bl,Bundesliga,3,,,,
+blum,Blumentaler SV,2,,,GER,
+bmg,Borussia Moenchengladbach,2,,,GER,
+bmg1,Jonas Omlin,1,bmg,luz,,D
+bmg10,Marcus Thuram,1,bmg,soc,,I
+bmg11,Hannes Wolf,1,bmg,rbs,,E
+bmg13,Lars Stindl,1,bmg,ksc,,F
+bmg14,Alassane Plea,1,bmg,ol,,I
+bmg17,Manu Kone,1,bmg,tou,,G
+bmg18,Stefan Lainer,1,bmg,rbs,,F
+bmg19,Nathan Ngoumou,1,bmg,tou,,C
+bmg20,Luca Netz,1,bmg,bscj,,C
+bmg21,Tobias Sippel,1,bmg,fck,,B
+bmg23,Jonas Hofmann,1,bmg,tsgj,,F
+bmg24,Tony Jantschke,1,bmg,bmgj,,D
+bmg25,Ramy Bensebaini,1,bmg,pac,,G
+bmg29,Joe Scally,1,bmg,nyfc,,E
+bmg3,Ko Itakura,1,bmg,kaw,,E
+bmg30,Nico Elvedi,1,bmg,fcz,,I
+bmg32,Florian Neuhaus,1,bmg,mu60,,I
+bmg34,Conor Noss,1,bmg,bmgj,,A
+bmg38,Yvandro Borges Sanches,1,bmg,bmgj,,A
+bmg4,Mamadou Doucoure,1,bmg,psg,,A
+bmg41,Jan Olschowsky,1,bmg,bmgj,,A
+bmg5,Marvin Friedrich,1,bmg,gelj,,D
+bmg6,Christoph Kramer,1,bmg,levj,,E
+bmg7,Patrick Herrmann,1,bmg,bmgj,,E
+bmg8,Julian Weigl,1,bmg,mu60,,H
+bmgj,Gladbach Jugend,2,,,GER,
+boc,VfL Bochum,2,,,GER,
+boc1,Manuel Riemann,1,boc,burg,,A
+boc10,Philipp Foerster,1,boc,vfbj,,B
+boc11,Takuma Asano,1,boc,yok,,B
+boc16,Konstantinos Stafylidis,1,boc,paok,,B
+boc17,Gerrit Holtmann,1,boc,svwj,,B
+boc18,Jordi Osei Tutu,1,boc,ars,,A
+boc2,Cristian Gamboa,1,boc,mli,,A
+boc20,Ivan Ordets,1,boc,shak,,B
+boc21,Michael Esser,1,boc,habi,,A
+boc22,Christopher Antwi Adjei,1,boc,hern,,A
+boc23,Saidy Janko,1,boc,manu,,B
+boc24,Vasilios Lampropoulos,1,boc,olpi,,A
+boc28,Pierre Kunde,1,boc,atm,,D
+boc29,Moritz Broschinski,1,boc,cott,,A
+boc3,Danilo Soares,1,boc,lust,,A
+boc30,Dominique Heintz,1,boc,fck,,D
+boc31,Keven Schlotterbeck,1,boc,kirc,,D
+boc33,Philipp Hofmann,1,boc,gelj,,B
+boc35,Silvere Ganvoula,1,boc,anne,,B
+boc4,Erhan Masovic,1,boc,cuk,,B
+boc5,Jacek Goralski,1,boc,zaw,,B
+boc6,Patrick Osterhage,1,boc,bvbj,,A
+boc7,Kevin Stoeger,1,boc,vfbj,,C
+boc8,Anthony Losilla,1,boc,asse,,A
+boc9,Simon Zoller,1,boc,ksc,,B
+bocj,VfL Bochum Jugend,2,,,GER,
+bonn,Bonner SC,2,,,GER,
+brab,Brabrand IF,2,,,DEN,
+bro,Broendby IF,2,,,DEN,
+brue,FC Bruegge,2,,,BEL,
+bsc,Hertha BSC Berlin,2,,,GER,
+bsc1,Oliver Christensen,1,bsc,obk,,B
+bsc10,Jean Paul Boetius,1,bsc,feye,,C
+bsc14,Dodi Lukebakio,1,bsc,and,,G
+bsc16,Jonjoe Kenny,1,bsc,eve,,E
+bsc17,Maximilian Mittelstaedt,1,bsc,bscj,,E
+bsc18,Wilfried Kanga,1,bsc,psg,,B
+bsc19,Stefan Jovetic,1,bsc,part,,H
+bsc2,Peter Pekarik,1,bsc,dubn,,B
+bsc20,Marc Oliver Kempf,1,bsc,sgej,,D
+bsc21,Marvin Plattenhardt,1,bsc,fcn,,F
+bsc23,Marco Richter,1,bsc,fcaj,,D
+bsc24,Jessic Ngankam,1,bsc,bscj,,A
+bsc27,Kevin Prince Boateng,1,bsc,bscj,,G
+bsc29,Lucas Tousart,1,bsc,vafc,,G
+bsc3,Augustin Rogel,1,bsc,naci,,B
+bsc31,Marton Dardai,1,bsc,bscj,,C
+bsc34,Ivan Sunjic,1,bsc,zag,,C
+bsc39,Derry Scherhant,1,bsc,bscj,,A
+bsc40,Chidera Ejuke,1,bsc,suco,,D
+bsc42,Julian Eitschberger,1,bsc,bscj,,A
+bsc5,Filip Uremovic,1,bsc,cib,,C
+bsc6,Tolga Cigerci,1,bsc,wobj,,B
+bsc7,Florian Niederlechner,1,bsc,eber,,D
+bsc8,Suat Serdar,1,bsc,fsvj,,G
+bscj,Hertha BSC Jugend,2,,,GER,
+burg,Wacker Burghausen,2,,,GER,
+bvb,Borussia Dortmund,2,,,GER,
+bvb1,Gregor Kobel,1,bvb,gcz,,G
+bvb11,Marco Reus,1,bvb,rwa,,J
+bvb13,Raphael Guerreiro,1,bvb,caen,,I
+bvb14,Nico Schulz,1,bvb,bscj,,G
+bvb15,Mats Hummels,1,bvb,fcbj,,K
+bvb17,Marius Wolf,1,bvb,mu60,,D
+bvb18,Youssoufa Moukoko,1,bvb,bvbj,,H
+bvb19,Julian Brandt,1,bvb,wobj,,J
+bvb2,Mateu Morey,1,bvb,bar,,C
+bvb20,Anthony Modeste,1,bvb,niz,,F
+bvb21,Donyell Malen,1,bvb,ars,,H
+bvb22,Jude Bellingham,1,bvb,bir,,L
+bvb23,Emre Can,1,bvb,fcbj,,I
+bvb24,Thomas Meunier,1,bvb,rev,,I
+bvb25,Niklas Suele,1,bvb,tsgj,,K
+bvb26,Julian Ryerson,1,bvb,vik,,C
+bvb27,Karim Adeyemi,1,bvb,uha,,I
+bvb30,Felix Passlack,1,bvb,bvbj,,B
+bvb33,Alexander Meyer,1,bvb,hsv,,A
+bvb35,Marcel Lotka,1,bvb,levj,,A
+bvb36,Tom Rothe,1,bvb,bvbj,,B
+bvb4,Nico Schlotterbeck,1,bvb,scfj,,I
+bvb43,Jamie Bynoe Gittens,1,bvb,bvbj,,D
+bvb47,Antonios Papadopoulos,1,bvb,vfra,,A
+bvb6,Salih Oezcan,1,bvb,koej,,F
+bvb7,Giovanni Reyna,1,bvb,nyfc,,J
+bvb8,Mahmoud Dahoud,1,bvb,bmgj,,F
+bvb9,Sebastien Haller,1,bvb,aux,,J
+bvbj,Borussia Dortmund Jugend,2,,,GER,
+cac,CA Colon,2,,,ARG,
+caen,SM Caen,2,,,FRA,
+cal,Deportivo Cali,2,,,ESP,
+cco,Central Coast,2,,,AUS,
+cfc,Chelsea London,2,,,ENG,
+cib,Cibalia,2,,,CRO,
+cob,Cobreloa,2,,,CHI,
+cott,Energie Cottbus,2,,,GER,
+cuk,FK Cukaricki,2,,,SRB,
+czj,FC Carl Zeiss Jena,2,,,GER,
+dcu,DC United,2,,,USA,
+der,Derby County,2,,,ENG,
+dubn,FK Dubnica,2,,,SVK,
+duis,MSV Duisburg,2,,,GER,
+eber,TSV Ebersberg,2,,,GER,
+ebs,Eintracht Braunschweig,2,,,GER,
+espb,Espanyol Barcelona,2,,,ESP,
+eve,FC Everton,2,,,ENG,
+fca,FC Augsburg,2,,,GER,
+fca1,Rafal Gikiewicz,1,fca,ols,,A
+fca10,Arne Maier,1,fca,bscj,,G
+fca11,Mergim Berisha,1,fca,rbs,,D
+fca13,Elvis Rexhbecaj,1,fca,wobj,,D
+fca14,Julian Baumgartlinger,1,fca,mu60,,C
+fca16,Ruben Vargas,1,fca,luz,,E
+fca17,Noah Sarenren Bazee,1,fca,han,,A
+fca19,Felix Udokhai,1,fca,mu60,,F
+fca2,Robert Gumny,1,fca,lech,,B
+fca20,Daniel Caligiuri,1,fca,scfj,,C
+fca22,Iago,1,fca,inte,,C
+fca23,Maximilian Bauer,1,fca,fur,,B
+fca24,Fredrik Jensen,1,fca,twen,,B
+fca27,Arne Engels,1,fca,brue,,A
+fca28,Andre Hahn,1,fca,hsv,,D
+fca3,Mads Pedersen,1,fca,fcno,,B
+fca30,Niklas Dorsch,1,fca,fcbj,,D
+fca38,David Colina,1,fca,asm,,A
+fca39,Benjamin Leneis,1,fca,fcaj,,A
+fca4,Reece Oxford,1,fca,whu,,E
+fca40,Tomas Koubek,1,fca,kral,,C
+fca42,Aaron Zehnter,1,fca,fcaj,,A
+fca45,Kelvin Yeboah,1,fca,goz,,C
+fca48,Irvin Cardona,1,fca,asm,,D
+fca5,Tobias Strobl,1,fca,mu60,,D
+fca6,Jeffrey Gouweleeuw,1,fca,hee,,E
+fca7,Dion Beljo,1,fca,cib,,C
+fca8,Renato Veiga,1,fca,spo,,A
+fca9,Ermedin Demirovic,1,fca,rblj,,E
+fcaj,FC Augsburg Jugend,2,,,GER,
+fcb,FC Bayern München,2,,,GER,
+fcb1,Manuel Neuer,1,fcb,gelj,,J
+fcb10,Leroy Sane,1,fcb,gelj,,L
+fcb11,Kingsley Coman,1,fcb,psg,,L
+fcb13,Eric Maxim Choupo Moting,1,fcb,hsv,,D
+fcb14,Paul Wanner,1,fcb,fcb,,B
+fcb17,Sadio Mane,1,fcb,foot,,L
+fcb19,Alphonso Davies,1,fcb,vanw,,L
+fcb2,Dayot Upamecano,1,fcb,vafc,,K
+fcb20,Bouna Sarr,1,fcb,met,,D
+fcb21,Lucas Hernandez,1,fcb,atm,,L
+fcb22,Joao Cancelo,1,fcb,ben,,L
+fcb23,Daley Blind,1,fcb,aja,,G
+fcb25,Thomas Mueller,1,fcb,fcbj,,L
+fcb26,Sven Ulreich,1,fcb,vfbj,,D
+fcb27,Yann Sommer,1,fcb,bas,,E
+fcb38,Ryan Gravenberch,1,fcb,aja,,I
+fcb39,Mathys Tel,1,fcb,ren,,F
+fcb4,Mathijs de Ligt,1,fcb,aja,,L
+fcb40,Noussair Mazraoui,1,fcb,aja,,H
+fcb42,Jamal Musiala,1,fcb,fcbj,,L
+fcb44,Josip Stanisic,1,fcb,fcbj,,D
+fcb5,Benjamin Pavard,1,fcb,lil,,J
+fcb6,Joshua Kimmich,1,fcb,vfbj,,L
+fcb7,Serge Gnabry,1,fcb,ars,,L
+fcb8,Leon Goretzka,1,fcb,bocj,,L
+fcbj,FC Bayern Jugend,2,,,GER,
+fck,1 FC Kaiserslautern,2,,,GER,
+fcn,1 FC Nuernberg,2,,,GER,
+fcno,FC Nordsjaelland,2,,,DEN,
+fcsi,FC Sion,2,,,SUI,
+fcu,1 FC Union Berlin,2,,,GER,
+fcu1,Frederik Roennow,1,fcu,hors,,B
+fcu11,Sven Michel,1,fcu,nied,,A
+fcu13,Andras Schaefer,1,fcu,mtk,,B
+fcu14,Paul Seguin,1,fcu,wobj,,A
+fcu16,Tim Maciejewski,1,fcu,fcuj,,A
+fcu17,Kevin Behrens,1,fcu,svwj,,A
+fcu18,Josip Juranovic,1,fcu,nkd,,D
+fcu19,Jannik Haberer,1,fcu,uha,,D
+fcu2,Morten Thorsby,1,fcu,stab,,C
+fcu20,Aissa Laidouni,1,fcu,asco,,B
+fcu23,Niko Giesselmann,1,fcu,han,,B
+fcu25,Timo Baumgartl,1,fcu,vfbj,,E
+fcu26,Jerome Rousillon,1,fcu,soc,,F
+fcu27,Sheraldo Becker,1,fcu,aja,,E
+fcu28,Christopher Trimmel,1,fcu,hori,,A
+fcu3,Paul Jaeckel,1,fcu,wobj,,C
+fcu30,Kevin Moehwald,1,fcu,rwer,,B
+fcu31,Robin Knoche,1,fcu,wobj,,E
+fcu32,Milos Pantovic,1,fcu,fcbj,,A
+fcu37,Lennart Grill,1,fcu,fck,,A
+fcu4,Diogo Leite,1,fcu,prt,,D
+fcu40,Jamie Leweling,1,fcu,fur,,B
+fcu45,Jordan Siebatcheu,1,fcu,reim,,D
+fcu5,Danilho Doekhi,1,fcu,aja,,B
+fcu7,Levin Oeztunali,1,fcu,hsv,,C
+fcu8,Rani Khedira,1,fcu,vfbj,,D
+fcuj,Union Berlin Jugend,2,,,GER,
+fcz,FC Zuerich,2,,,SUI,
+fen,Fenerbahce Istanbul,2,,,TUR,
+feye,Feyenoord Rotterdam,2,,,NED,
+fhs,Fujieda Highschool,2,,,JAP,
+foot,Generation Foot,2,,,SEN,
+for,Fortuna Duesseldorf,2,,,GER,
+fsv,FSV Mainz 05,2,,,GER,
+fsv1,Finn Dahmen,1,fsv,fsvj,,A
+fsv11,Marcus Ingvartsen,1,fsv,fcno,,B
+fsv16,Stefan Bell,1,fsv,fsvj,,C
+fsv17,Ludovic Ajourque,1,fsv,asco,,F
+fsv19,Anthony Caci,1,fsv,stra,,C
+fsv20,Edmilson Fernandes,1,fsv,fcsi,,D
+fsv21,Danny da Costa,1,fsv,levj,,E
+fsv25,Andreas Hanche Olsen,1,fsv,stab,,B
+fsv27,Robin Zentner,1,fsv,fsvj,,B
+fsv29,Jonathan Burkardt,1,fsv,fsvj,,F
+fsv3,Aaron Martin,1,fsv,espb,,F
+fsv30,Silvan Widmer,1,fsv,aar,,D
+fsv31,Dominik Kohr,1,fsv,levj,,D
+fsv36,Marlon Mustapha,1,fsv,fsvj,,A
+fsv37,Delano Burgzorg,1,fsv,graa,,A
+fsv4,Aymen Barkok,1,fsv,sgej,,B
+fsv42,Alexander Hack,1,fsv,mu60,,B
+fsv43,Brajan Gruda,1,fsv,fsvj,,A
+fsv44,Nelson Weiper,1,fsv,fsvj,,A
+fsv5,Maxim Leitsch,1,fsv,bocj,,B
+fsv6,Anton Stach,1,fsv,osna,,E
+fsv7,Jae Sung Lee,1,fsv,kun,,B
+fsv8,Leandro Barreiro,1,fsv,fsvj,,E
+fsv9,Karim Onisiwo,1,fsv,twl,,B
+fsvj,FSV Mainz Jugend,2,,,GER,
+ful,FC Fulham,2,,,ENG,
+fur,Greuther Fuerth,2,,,GER,
+gala,Galatasaray Istanbul,2,,,TUR,
+gamb,Gamba Osaka,2,,,JAP,
+gcz,Grasshoppers Zuerich,2,,,SUI,
+gel,FC Schalke 04,2,,,GER,
+gel1,Ralf Faehrmann,1,gel,gelj,,E
+gel10,Rodrigo Zalazar,1,gel,mala,,B
+gel11,Marius Buelter,1,gel,muns,,B
+gel13,Alexander Schwolow,1,gel,scfj,,D
+gel15,Timothee Kolodziejczak,1,gel,len,,C
+gel18,Jere Uronen,1,gel,tps,,B
+gel19,Kenan Karaman,1,gel,tsgj,,B
+gel2,Thomas Ouwejan,1,gel,alk,,B
+gel20,Tim Skarke,1,gel,heid,,A
+gel21,Niklas Tauer,1,gel,fsvj,,A
+gel23,Mehmet Aydin,1,gel,gelj,,B
+gel24,Dominick Drexler,1,gel,levj,,B
+gel25,Moritz Jenz,1,gel,ful,,B
+gel26,Michael Frey,1,gel,ybb,,C
+gel27,Cedric Brunner,1,gel,fcz,,B
+gel29,Tobias Mohr,1,gel,aaa,,A
+gel3,Leo Greiml,1,gel,stpo,,B
+gel30,Alex Kral,1,gel,slpr,,D
+gel33,Eder Balanta,1,gel,rivp,,C
+gel34,Michael Langer,1,gel,vfbj,,A
+gel35,Marcin Kaminski,1,gel,lech,,B
+gel37,Andreas Ivan,1,gel,stk,,A
+gel38,Siochiro Kozuki,1,gel,sang,,A
+gel4,Maya Yoshida,1,gel,nag,,C
+gel40,Sebastian Polter,1,gel,wobj,,A
+gel41,Henning Matriciani,1,gel,lipp,,A
+gel5,Sepp van den Berg,1,gel,zwo,,C
+gel6,Tom Krauss,1,gel,rblj,,C
+gel8,Danny Latza,1,gel,gelj,,C
+gel9,Simon Terodde,1,gel,duis,,B
+gelj,FC Schalke 04 Jugend,2,,,GER,
+goz,Gozzano,2,,,ITA,
+graa,De Graafschap Doetinchem,2,,,NED,
+graz,Sturm Graz,2,,,AUT,
+habi,VfB Habinghorst,2,,,GER,
+han,Hannover 96,2,,,GER,
+have,TSV Havelse,2,,,GER,
+hee,SC Heerenveen,2,,,NED,
+heid,1 FC Heidenheim,2,,,GER,
+hern,Westfalia Herne,2,,,GER,
+hhs,Higashiyama Highschool,2,,,JAP,
+hoed,IL Hoedd,2,,,NOR,
+hori,ASK Horitschon,2,,,AUT,
+hors,AC Horsens,2,,,DEN,
+hro,Hansa Rostock,2,,,GER,
+hsv,Hamburger SV,2,,,GER,
+ind,Indepidiente del Valle,2,,,ECU,
+inte,Internacional Porto Alegre,2,,,BRA,
+iwa,Jubilo Iwata,2,,,JAP,
+kaw,Kawasaki Frontale,2,,,JAP,
+kirc,VfL Kirchheim,2,,,GER,
+koe,1. FC Koeln,2,,,GER,
+koe1,Timo Horn,1,koe,koej,,E
+koe11,Florian Kainz,1,koe,graz,,B
+koe13,Marc Uth,1,koe,koej,,G
+koe14,Jonas Hector,1,koe,auer,,F
+koe15,Luca Kilian,1,koe,bvbj,,B
+koe17,Kingsley Schindler,1,koe,han,,B
+koe19,Dimitrios Limnios,1,koe,atro,,B
+koe2,Benno Schmitz,1,koe,fcbj,,B
+koe20,Marvin Schwaebe,1,koe,sgej,,B
+koe21,Steffen Tigges,1,koe,osna,,B
+koe23,Sargis Adamyan,1,koe,hro,,B
+koe24,Julian Chabot,1,koe,rblj,,A
+koe25,Tim Lemperle,1,koe,koej,,A
+koe27,Davie Selke,1,koe,svwj,,F
+koe28,Ellyes Skhiri,1,koe,mont,,E
+koe29,Jan Thielmann,1,koe,koej,,D
+koe3,Kristian Pedersen,1,koe,beif,,B
+koe33,Florian Dietz,1,koe,czj,,A
+koe37,Linton Mai,1,koe,han,,D
+koe4,Timo Huebers,1,koe,han,,C
+koe47,Mathias Olesen,1,koe,koej,,A
+koe48,Justin Diehl,1,koe,koej,,A
+koe5,Nikola Soldo,1,koe,zapr,,A
+koe6,Eric Martel,1,koe,rblj,,B
+koe7,Dejan Ljubicic,1,koe,rwie,,D
+koe8,Denis Huseinbasic,1,koe,off,,A
+koe9,Sebastian Andersson,1,koe,ange,,C
+koej,1 FC Koeln Jugend,2,,,GER,
+kop,FC Kopenhagen,2,,,DEN,
+kral,Hradec Kralove,2,,,CZE,
+krc,KRC Genk,2,,,BEL,
+ksc,Karlsruher SC,2,,,GER,
+kun,Korea University,2,,,KOR,
+lech,Lech Posen,2,,,POL,
+leix,Leixoes SC,2,,,POR,
+len,RC Lens,2,,,FRA,
+lev,Bayer 04 Leverkusen,2,,,GER,
+lev1,Lukas Hradecky,1,lev,tps,,E
+lev10,Kerem Demirbay,1,lev,bvbj,,I
+lev11,Nadiem Amiri,1,lev,tsgj,,G
+lev12,Edmond Tapsoba,1,lev,leix,,I
+lev14,Patrik Schick,1,lev,spra,,J
+lev17,Callum Hudson Odoi,1,lev,cfc,,I
+lev19,Moussa Diaby,1,lev,psg,,K
+lev20,Charles Aranguiz,1,lev,cob,,E
+lev21,Amine Adli,1,lev,tou,,E
+lev22,Daley Sinkgraven,1,lev,hee,,D
+lev23,Adam Hlozek,1,lev,spra,,F
+lev24,Timothy Fosu Mensah,1,lev,manu,,C
+lev25,Exequiel Palacios,1,lev,rivp,,G
+lev27,Florian Wirtz,1,lev,koej,,L
+lev3,Piero Hincapie,1,lev,ind,,G
+lev30,Jeremie Frimpong,1,lev,manc,,G
+lev32,Ayman Azhil,1,lev,levj,,A
+lev38,Karim Bellarabi,1,lev,ebs,,G
+lev4,Jonathan Tah,1,lev,hsv,,I
+lev40,Andrey Lunev,1,lev,tor,,E
+lev5,Mitchell Bakker,1,lev,aja,,E
+lev6,Odilon Koussounou,1,lev,asec,,G
+lev8,Robert Andrich,1,lev,bscj,,E
+lev9,Sardar Azmoun,1,lev,sep,,G
+levj,Bayer 04 Leverkusen Jugend,2,,,GER,
+lil,Lille OSC,2,,,FRA,
+lipp,SV Lippstadt,2,,,GER,
+lust,Austria Lustenau,2,,,AUT,
+luz,FC Luzern,2,,,SUI,
+lyn,Lyngby BK,2,,,DEN,
+macc,Maccabi Tel Aviv,2,,,ISR,
+maff,Malmo FF,2,,,SWE,
+mala,FC Malaga,2,,,ESP,
+manc,Manchester City,2,,,ENG,
+manu,Manchester United,2,,,ENG,
+met,FC Metz,2,,,FRA,
+mli,AD Municipal Liberia,2,,,CRI,
+mont,Montpellier HSC,2,,,FRA,
+mtk,MTK Budapest,2,,,HUN,
+mu60,1860 München,2,,,GER,
+muns,Preussen Muenster,2,,,GER,
+naci,Nacional,2,,,URU,
+nag,Nagoya Crampus,2,,,JAP,
+nan,FC Nantes,2,,,FRA,
+nied,SuS Niederschelden,2,,,GER,
+niz,OGC Nizza,2,,,FRA,
+nkd,NK Dubrava,2,,,CRO,
+nyfc,New York City FC,2,,,USA,
+obk,Odense BK,2,,,DEN,
+off,Kickers Offenbach,2,,,GER,
+ol,Olympique Lyon,2,,,FRA,
+olpi,Olympiakos Piraus,2,,,GRE,
+ols,Tempo 25 Olsztyn,2,,,POL,
+osna,VfL Osnabrueck,2,,,GER,
+ostr,Banik Ostrau,2,,,CZE,
+pac,Paradou AC,2,,,ALG,
+paok,PAOK Saloniki,2,,,GRE,
+part,Partizan Belgrad,2,,,SRB,
+pfc,Paris FC,2,,,FRA,
+prt,FC Porto,2,,,POR,
+psg,Paris St Germain,2,,,FRA,
+pus,Puskas AFC,2,,,HUN,
+rbl,Red Bull Leipzig,2,,,GER,
+rbl1,Peter Gulacsi,1,rbl,mtk,,E
+rbl10,Emil Forsberg,1,rbl,sun,,H
+rbl11,Timo Werner,1,rbl,vfbj,,L
+rbl13,Orjan Nyland,1,rbl,hoed,,B
+rbl16,Lukas Klostermann,1,rbl,bocj,,I
+rbl17,Dominik Szoboszlai,1,rbl,rbs,,I
+rbl18,Christopher Nkunku,1,rbl,psg,,L
+rbl19,Andre Silva,1,rbl,prt,,J
+rbl2,Mohamed Simakan,1,rbl,stra,,H
+rbl21,Janis Blaswich,1,rbl,bmgj,,A
+rbl22,David Raum,1,rbl,fur,,H
+rbl23,Marcel Halstenberg,1,rbl,han,,G
+rbl24,Xaver Schlager,1,rbl,rbs,,H
+rbl25,Sanoussy Ba,1,rbl,rblj,,A
+rbl27,Konrad Laimer,1,rbl,rbs,,H
+rbl32,Josko Gvardiol,1,rbl,zag,,L
+rbl37,Abdou Diallo,1,rbl,asm,,I
+rbl39,Benjamin Henrichs,1,rbl,levj,,F
+rbl4,Willi Orban,1,rbl,fck,,F
+rbl44,Kevin Kampl,1,rbl,levj,,G
+rbl7,Dani Olmo,1,rbl,bar,,J
+rbl8,Amadou Haidara,1,rbl,bama,,G
+rbl9,Yussuf Poulsen,1,rbl,lyn,,I
+rblj,Red Bull Leipzig Jugend,2,,,GER,
+rbs,Red Bull Salzburg,2,,,AUT,
+reim,Stade Reims,2,,,FRA,
+ren,Stade Rennes,2,,,FRA,
+rev,RE Virton,2,,,FRA,
+rij,HNK Rijeka,2,,,CRO,
+rivp,River Plate,2,,,ARG,
+rma,Real Madrid,2,,,ESP,
+rwa,Rot Weiss Ahlen,2,,,GER,
+rwer,Rot Weiss Erfurt,2,,,GER,
+rwie,Rapid Wien,2,,,AUT,
+rwo,Rot Weiß Oberhausen,2,,,GER,
+sang,Kyoto Sanga,2,,,JAP,
+saop,Sao Paolo FC,2,,,BRA,
+scf,SC Freiburg,2,,,GER,
+scf1,Benjamin Uphoff,1,scf,burg,,A
+scf11,Daniel Kofi Kyereh,1,scf,have,,D
+scf14,Yannik Keitel,1,scf,scfj,,B
+scf17,Lukas Kuebler,1,scf,bonn,,B
+scf18,Nils Petersen,1,scf,czj,,E
+scf22,Roland Sallai,1,scf,pus,,F
+scf23,Robert Wagner,1,scf,scfj,,A
+scf25,Kiliann Sildillia,1,scf,met,,D
+scf26,Mark Flekken,1,scf,aaa,,C
+scf27,Nicolas Hoefler,1,scf,scfj,,B
+scf28,Matthias Ginter,1,scf,scfj,,I
+scf29,Woo Yeong Jeong,1,scf,fcbj,,C
+scf3,Philipp Lienhart,1,scf,rma,,G
+scf30,Christian Guenter,1,scf,scfj,,E
+scf32,Vincenzo Grifo,1,scf,ksc,,E
+scf33,Noah Weisshaupt,1,scf,scfj,,B
+scf38,Michael Gregoritsch,1,scf,svka,,F
+scf42,Ritsu Doan,1,scf,gamb,,F
+scf5,Manuel Gulde,1,scf,tsgj,,B
+scf7,Jonathan Schmid,1,scf,scfj,,C
+scf8,Maximilian Eggestein,1,scf,svwj,,H
+scf9,Lucas Hoeler,1,scf,blum,,C
+scfj,SC Freiburg Jugend,2,,,GER,
+sep,Sepaphan FC,2,,,IRN,
+sge,Eintracht Frankfurt,2,,,GER,
+sge1,Kevin Trapp,1,sge,fck,,E
+sge11,Faride Alidou,1,sge,hsv,,A
+sge15,Daichi Kamada,1,sge,hhs,,H
+sge17,Sebastian Rode,1,sge,off,,D
+sge18,Almamy Toure,1,sge,asm,,D
+sge19,Rafael Borre,1,sge,cal,,F
+sge2,Evan N Dicka,1,sge,aux,,I
+sge20,Makoto Hasebe,1,sge,fhs,,B
+sge21,Lucas Alario,1,sge,cac,,F
+sge22,Timothy Chandler,1,sge,sgej,,B
+sge24,Aurelio Buta,1,sge,ben,,C
+sge25,Christopher Lenz,1,sge,bmgj,,B
+sge26,Junior Dina Ebimbe,1,sge,psg,,C
+sge27,Mario Goetze,1,sge,bvbj,,K
+sge28,Marcel Wenig,1,sge,fcbj,,A
+sge29,Jesper Lindstrom,1,sge,bro,,H
+sge31,Jens Grahl,1,sge,stk,,A
+sge32,Philipp Max,1,sge,gelj,,F
+sge35,Tuta,1,sge,saop,,E
+sge36,Ansgar Knauff,1,sge,bvbj,,D
+sge40,Diant Ramaj,1,sge,heid,,A
+sge5,Hrvoje Smolcic,1,sge,rij,,B
+sge6,Kristijan Jakic,1,sge,spli,,D
+sge8,Djibril Sow,1,sge,fcz,,G
+sge9,Randal Kolo Muani,1,sge,nan,,I
+sgej,Frankfurt Jugend,2,,,GER,
+shak,Shakhtar Donezk,2,,,UKR,
+shb,Shonan Bellmare,2,,,JAP,
+silk,Silkeborg IF,2,,,SWE,
+slpr,Slavia Prag,2,,,CZE,
+smy,Apollon Smyrnis,2,,,GRE,
+soc,FC Sochaux,2,,,FRA,
+spli,RNK Split,2,,,CRO,
+spo,Sporting Lissabon,2,,,POR,
+spra,Sparta Prag,2,,,CZE,
+stab,Stabaek IF,2,,,DEN,
+stk,SV Stuttgarter Kickers,2,,,GER,
+stl,Stade Laval,2,,,FRA,
+stp,FC St Pauli,2,,,GER,
+stpo,FC St Polten,2,,,AUT,
+stra,Racing Strassbourg,2,,,FRA,
+suco,Supreme Court FC,2,,,NIG,
+sun,GIF Sundsvall,2,,,SWE,
+svka,SV Kapfenberg,2,,,AUT,
+svw,Werder Bremen,2,,,GER,
+svw1,Jiri Pavlenka,1,svw,ostr,,E
+svw10,Leonardo Bittencourt,1,svw,cott,,C
+svw11,Niclas Fuellkrug,1,svw,svwj,,E
+svw13,Milos Veljkovic,1,svw,tot,,E
+svw17,Maximilian Philipp,1,svw,scf,,F
+svw19,Dikeni Salifou,1,svw,fcaj,,A
+svw20,Romano Schmid,1,svw,graz,,B
+svw21,Eren Dinkci,1,svw,svwj,,A
+svw22,Niklas Schmidt,1,svw,svwj,,A
+svw26,Lee Buchanan,1,svw,der,,B
+svw27,Felix Agu,1,svw,osna,,A
+svw28,Ilia Gruev,1,svw,svwj,,B
+svw3,Anthony Jung,1,svw,sgej,,A
+svw30,Michael Zetterer,1,svw,uha,,A
+svw32,Marco Friedl,1,svw,fcbj,,C
+svw34,Jean Manuel Mbom,1,svw,svwj,,B
+svw36,Christian Gross,1,svw,hsv,,A
+svw39,Fabio Chiarodia,1,svw,svwj,,A
+svw4,Niklas Stark,1,svw,fcn,,F
+svw5,Amos Pieper,1,svw,bvbj,,C
+svw6,Jens Stage,1,svw,brab,,B
+svw7,Marvin Ducksch,1,svw,bvbj,,B
+svw8,Mitchell Weiser,1,svw,koej,,E
+svwj,SV Werder Bremen Jugend,2,,,GER,
+tor,Torpedo Moskau,2,,,RUS,
+tot,Tottenham Hotspur,2,,,ENG,
+tou,FC Toulouse,2,,,FRA,
+tps,Turun Palloseura,2,,,FIN,
+tsg,TSG Hoffenheim,2,,,GER,
+tsg1,Oliver Baumann,1,tsg,scfj,,D
+tsg10,Munas Dabbour,1,tsg,macc,,E
+tsg11,Angelino,1,tsg,manc,,I
+tsg13,Angelo Stiller,1,tsg,fcbj,,C
+tsg14,Christoph Baumgartner,1,tsg,tsgj,,G
+tsg16,Sebastian Rudy,1,tsg,vfbj,,E
+tsg17,Thomas Delaney,1,tsg,kop,,H
+tsg19,Kasper Dolberg,1,tsg,aja,,G
+tsg20,Finn Ole Becker,1,tsg,stp,,A
+tsg22,Kevin Vogt,1,tsg,bocj,,F
+tsg23,John Anthony Brooks,1,tsg,bscj,,E
+tsg25,Kevin Akpoguma,1,tsg,ksc,,E
+tsg26,Eduardo Quaresma,1,tsg,spo,,C
+tsg27,Andrej Kramaric,1,tsg,zag,,I
+tsg29,Robert Skov,1,tsg,silk,,E
+tsg3,Pavel Kaderabek,1,tsg,spra,,F
+tsg34,Stanley Nsoki,1,tsg,psg,,E
+tsg35,Muhammed Damar,1,tsg,sgej,,A
+tsg39,Tom Bischof,1,tsg,tsgj,,A
+tsg4,Ermin Bicakcic,1,tsg,vfbj,,B
+tsg40,Umut Tohumcu,1,tsg,tsgj,,A
+tsg44,Fisnik Asllani,1,tsg,fcuj,,A
+tsg5,Ozan Kabak,1,tsg,gala,,I
+tsg6,Grischa Proemel,1,tsg,tsgj,,C
+tsg7,Jacob Bruun Larsen,1,tsg,bvbj,,F
+tsg8,Dennis Geiger,1,tsg,tsgj,,E
+tsg9,Ihlas Bebou,1,tsg,for,,F
+tsgj,TSG Hoffenheim Jugend,2,,,GER,
+twen,Twente Enschede,2,,,NED,
+twl,TWL Elektra,2,,,POL,
+uha,SpVgg Unterhaching,2,,,GER,
+ura,Urawa Reds,2,,,JAP,
+vafc,Valenciennes FC,2,,,FRA,
+vanw,Vancouver Whitecaps,2,,,CAN,
+vfb,VfB Stuttgart,2,,,GER,
+vfb1,Florian Mueller,1,vfb,fsvj,,D
+vfb10,Tiago Tomas,1,vfb,spo,,C
+vfb11,Juan Jose Perea,1,vfb,prt,,A
+vfb14,Silas Katompa Mvumpa,1,vfb,pfc,,G
+vfb15,Pascal Stenzel,1,vfb,bvbj,,C
+vfb16,Atakan Karazor,1,vfb,bocj,,B
+vfb17,Genki Haraguchi,1,vfb,ura,,B
+vfb2,Waldemar Anton,1,vfb,han,,E
+vfb20,Luca Pfeiffer,1,vfb,stk,,B
+vfb21,Hiroki Ito,1,vfb,iwa,,C
+vfb22,Chris Fuehrich,1,vfb,rwo,,B
+vfb23,Dan Axel Zagadou,1,vfb,psg,,I
+vfb24,Borna Sosa,1,vfb,zag,,G
+vfb25,Lilian Egloff,1,vfb,vfbj,,A
+vfb27,Alou Kuol,1,vfb,cco,,A
+vfb28,Nikolas Nartey,1,vfb,kop,,A
+vfb3,Wataru Endo,1,vfb,shb,,D
+vfb31,Gil Dias,1,vfb,asm,,B
+vfb33,Fabian Bredlow,1,vfb,rblj,,A
+vfb34,Omer Beyaz,1,vfb,fen,,A
+vfb36,Laurin Ulrich,1,vfb,vfbj,,A
+vfb37,Antonis Aidonis,1,vfb,vfbj,,A
+vfb39,Thomas Kastanaras,1,vfb,vfbj,,A
+vfb4,Josha Vagnoman,1,vfb,hsv,,B
+vfb5,Konstantinos Mavropanos,1,vfb,smy,,F
+vfb7,Tanguy Coulibaly,1,vfb,psg,,C
+vfb8,Enzo Millot,1,vfb,asm,,A
+vfb9,Serhou Guirassy,1,vfb,stl,,E
+vfbj,VfB Stuttgart Jugend,2,,,GER,
+vfra,VfR Aalen,2,,,GER,
+vik,Viking FK,2,,,NOR,
+vol,FC Volendaam,2,,,NED,
+wad,Wadi Degla,2,,,POL,
+whu,West Ham United,2,,,ENG,
+wob,VfL Wolfsburg,2,,,GER,
+wob1,Koen Casteels,1,wob,krc,,E
+wob10,Lukas Nmecha,1,wob,manc,,F
+wob12,Pavao Pervan,1,wob,twl,,A
+wob16,Jakub Kaminski,1,wob,lech,,D
+wob2,Kilian Fischer,1,wob,mu60,,A
+wob20,Ridle Baku,1,wob,fsvj,,G
+wob22,Felix Nmecha,1,wob,manc,,B
+wob23,Jonas Wind,1,wob,kop,,E
+wob27,Maximilian Arnold,1,wob,wobj,,F
+wob29,Joshua Guilavogui,1,wob,asse,,E
+wob3,Sebastiaan Bornauw,1,wob,and,,E
+wob31,Yannik Gerhardt,1,wob,koej,,E
+wob32,Mattias Svanberg,1,wob,maff,,E
+wob33,Omar Marmoush,1,wob,wad,,C
+wob38,Bartol Franjic,1,wob,zag,,C
+wob39,Patrick Wimmer,1,wob,awie,,D
+wob4,Maxence Lacroix,1,wob,soc,,H
+wob40,Kevin Paredes,1,wob,dcu,,B
+wob5,Micky van de Veen,1,wob,vol,,D
+wob6,Paulo Otavio,1,wob,atpr,,D
+wob7,Luca Waldschmidt,1,wob,sgej,,G
+wobj,VfL Wolfsburg Jugend,2,,,GER,
+ybb,Young Boys Bern,2,,,SUI,
+yok,Yokkaichi Highschool,2,,,JAP,
+zag,Dinamo Zagreb,2,,,CRO,
+zapr,Inter Zapresic,2,,,CRO,
+zaw,Zawisza Bydgoszcz,2,,,POL,
+zwo,PEC Zwolle,2,,,NED,
+sag,Sagan Tosu,2,,,JAP,
+roy,Royal Antwerpen,2,,,BEL,
+turk,Turkgucu Muenchen,2,,,GER,
+pay,Paysandu FC,2,,,BRA,
+pne,Preston North End,2,,,ENG,
+vit,Vitesse Arnheim,2,,,NED,
+fcv,FC Voluntari,2,,,ROM,
+hull,Hull City FC,2,,,ENG,
+dre,Dynamo Dresden,2,,,GER,
+svww,Wehen Wiesbaden,2,,,GER,
+hif,Hammarby IF,2,,,SWE,
+kaz,Rubin Kazan,2,,,RUS,
+gui,Vittoria Guimaraes,2,,,POR,
+crot,FC Crotone,2,,,ITA,
+cel,Celtic Glasgow,2,,,SCO,
+scp,SC Paderborn,2,,,GER,
+hol,Holstein Kiel,2,,,GER,
+rot,Sparta Rotterdam,2,,,NED,
+naz,Maccabi Ahi Nazareth,2,,,ISR,
+gomb,Gombe United,2,,,NIG,
+wig,Wigry Suwalki,2,,,POL,
+ala,Deportivo Alaves,2,,,ESP,
+cerc,Cercle Bruegge,2,,,BEL,
+pasg,PAS Giannina,2,,,GRE,
+pan,Panathinaikos Athen,2,,,GRE,
+hfc,Hallescher FC,2,,,GER,
+wis,Wisla Plock,2,,,POL,
+fcc,FC Cannes,2,,,FRA,
+svs,SV Sandhausen,2,,,GER,
+sanf,Sanfrecce Hiroshima,2,,,JAP,
+bolt,Bolton Wanderers,2,,,ENG,
+apo,Apollon Pontou,2,,,GRE,
+gran,FC Granada,2,,,ESP,
+raja,Raja Casablanca,2,,,MAR,
+kiel,Korona Kielce,2,,,POL,
+fcm,FC Magdeburg,2,,,GER,
+lau,FC Lausanne,2,,,SUI,
+tep,FK Teplice,2,,,CZE,
+psv,PSV Eindhofen,2,,,NED,
